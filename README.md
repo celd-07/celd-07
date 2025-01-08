@@ -1,16 +1,70 @@
-## Hi there 👋
+![id]( https://github.com/celd-07/celd-07/blob/main/cristian.png) 
+# Cristhian Ernesto Lugo Dorta 
 
-<!--
-**celd-07/celd-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education Online
+
+## Thesis
+
+## Master's Thesis
+
+## Experience
+
+## Teaching
+
+## Thesis tutoring
+
+## Thesis opponent
+
+## Idioms
+
+## Tools and technologies
+
+#### Programming language
+
+#### Operating systems
+
+
+#### Frameworks
+
+ 
+#### Content management system
+
+
+#### Database manager
+
+
+#### 2D graphic design
+
+
+#### CASE Tool
+
+
+#### Web server
+
+
+#### Text processor
+
+
+#### Version control
+
+
+#### Software development methodology
+
+
+## Publications
+
+
+## Events
+
+
+## Research
+
+
+## Acknowledgments
+
+
+
+
